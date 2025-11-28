@@ -1,10 +1,9 @@
-# AI-AGENT-ON-STUDY-REAMINDER
-AI Agent for Study Reminder (n8n Workflow)
-📘 Overview
+# AI-AGENT-ON-STUDY-REAMINDER (n8n Workflow)
+📘 **Overview**
 This project is an AI-powered Study Reminder Agent built using n8n (no-code automation tool). The agent helps students manage study schedules, stay consistent, and receive smart reminders across platforms like Telegram/WhatsApp.
 The AI agent analyzes subjects, timing, priority, and user patterns to deliver intelligent, personalized study reminders.
 ________________________________________
-🎯 Key Features
+🎯 Key Features.
 1. Automated Reminder Scheduling
 •	Enter subject + study time → AI schedules reminders automatically.
 •	Supports daily, hourly, or custom-time reminders.
